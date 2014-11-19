@@ -1,4 +1,4 @@
-package com.datalook;
+package ${package};
 
 /**
  * Hello world!
