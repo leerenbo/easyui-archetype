@@ -7,16 +7,12 @@
 				<include>**/*</include>
 			</includes>
 		</fileSet>
-	</fileSets>
-	<fileSets>
 		<fileSet filtered="true" packaged="true">
 			<directory>src/test/java</directory>
 			<includes>
 				<include>**/*</include>
 			</includes>
 		</fileSet>
-	</fileSets>
-	<fileSets>
 		<fileSet filtered="true" packaged="false">
 			<directory>src/main/resources</directory>
 			<includes>
